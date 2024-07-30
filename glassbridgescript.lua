@@ -64,7 +64,7 @@ S.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 L.Name = "L"
 L.Parent = S
-L.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- Changed to black
+L.BackgroundColor3 = Color3.fromRGB(90, 89, 91) -- Changed to black
 L.BorderColor3 = Color3.fromRGB(110, 110, 110)
 L.Position = UDim2.new(0.321100891, 0, 0.282937378, 0)
 L.Size = UDim2.new(0, 350, 0, 200)
@@ -73,7 +73,7 @@ L.Draggable = true
 
 D.Name = "D"
 D.Parent = L
-D.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- Changed to black
+D.BackgroundColor3 = Color3.fromRGB(90, 89, 91) -- Changed to black
 D.BorderColor3 = Color3.fromRGB(110, 110, 110)
 D.Position = UDim2.new(0.042857144, 0, 0.200000003, 0)
 D.Size = UDim2.new(0, 320, 0, 145)
@@ -108,10 +108,10 @@ end)
 
 C.Name = "C"
 C.Parent = L
-C.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- Changed to black
+C.BackgroundColor3 = Color3.fromRGB(90, 89, 91) -- Changed to black
 C.BackgroundTransparency = 1.000
 C.BorderSizePixel = 0
-C.Position = UDim2.new(0.885714352, 0, 0, 0)
+C.Position = UDim2.new(0.885714352, 90, 89, 91)
 C.Size = UDim2.new(0, 40, 0, 40)
 C.Font = Enum.Font.GothamBold
 C.Text = "X"
@@ -123,10 +123,10 @@ end)
 
 V.Name = "V"
 V.Parent = L
-V.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- Changed to black
+V.BackgroundColor3 = Color3.fromRGB(90, 89, 91) -- Changed to black
 V.BackgroundTransparency = 1.000
 V.BorderSizePixel = 0
-V.Position = UDim2.new(0.172857144, 0, 0, 0)
+V.Position = UDim2.new(0.172857144, 90, 89, 91)
 V.Size = UDim2.new(0, 140, 0, 40)
 V.Font = Enum.Font.GothamBold
 V.Text = "BlackNovs's Glass Bridge Script V2"
