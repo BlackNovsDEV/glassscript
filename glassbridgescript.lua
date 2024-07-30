@@ -129,6 +129,6 @@ V.BorderSizePixel = 0
 V.Position = UDim2.new(0.172857144, 90, 89, 91)
 V.Size = UDim2.new(0, 140, 0, 40)
 V.Font = Enum.Font.GothamBold
-V.Text = "BlackNovs's Glass Bridge Script V2"
+V.Text = "BlackNovs's Glass Bridge Script V1"
 V.TextColor3 = Color3.fromRGB(255, 255, 255)
 V.TextSize = 14.000
